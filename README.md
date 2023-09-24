@@ -13,6 +13,6 @@ The JavaScript program will be run using `node.js`
 From the command line:
 
 ```
-tsc mergesort.ts
-node mergesort.js SampleFile.txt [number from 0-3]
+tsc MergeSort.ts
+node MergeSort.js SampleFile.txt [number from 0-3]
 ```
